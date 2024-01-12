@@ -37,21 +37,8 @@ Underline 2
 # imagenes
 ![imagen](https://foundations.projectpythia.org/_images/GitHub-logo.png)
 # Code snippets
-```json
-<!DOCTYPE html>
-<html>
-  <head>
-    <title>Test Javascript</title>
-    <script type="text/javascript">
-      let hello_world = {"Hello":"World"};
-      alert(hello_world.Hello);
-    </script>
-  </head>
-  <body>
-    <h2>JSON Hello World</h2>
-    <p>This is a test program to alert Hello world!</p>
-  </body>
-</html>
+```python
+print (Hello world)
 
 ```
 
